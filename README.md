@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 你好，我是 E7YS1AwA.
 
-<!--
-**E7YS1AwA/E7YS1AwA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 关于我
+- 大一新生，坐标 [中南大学]
+- 正在从零基础学习计算机与AI相关知识与技能
+- 相信“每天多敲10行代码，一年后就是质的飞跃”
 
-Here are some ideas to get you started:
+## 📚 当前学习路线
+   # 会根据学习进度逐步推进
+//初编于2026/08/27
+- **2026年秋季**：C语言基础(已学) + Python入门 + 高数/线代(已学)
+- **2027年春季**：数据结构和算法 + C++核心特性
+- **2027年暑期**：第一个完整项目（个人网站/小工具）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 里程碑（持续更新）
+- [ ] 完成校内OJ前50道C语言题
+- [ ] 用Python写一个通讯录管理程序
+- [ ] 搭建好自己的GitHub个人网站
+
+## 📫 有对学习路线提供建议或志同道合的小伙伴可以联系我
+- 邮箱：[13213383430l@gmail.com]
+- GitHub：[这个就是你现在所在的页面]
